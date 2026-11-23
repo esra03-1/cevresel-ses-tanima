@@ -1,0 +1,20 @@
+﻿Sütun adı,Veri tipi,Projede görevi,Anlamı
+dosya_adi,Metin,Kayıt kimliği,Ses kaydının WAV dosya adı.
+ses_turu,Kategorik,Hedef,Modelin tahmin etmeyi öğrendiği gerçek ses etiketi.
+fold,Tam sayı,Grup numarası,Kaydın veri setindeki hazır grubu (1–5).
+rms_ortalama,Ondalıklı sayı,Model girdisi,Kısa zaman aralıklarında ölçülen ses düzeylerinin ortalaması.
+rms_standart_sapma,Ondalıklı sayı,Model girdisi,Ses düzeyinin kayıt boyunca ne kadar değiştiğini gösterir.
+sifir_gecis_ortalama,Ondalıklı sayı,Model girdisi,Kısa zaman aralıklarında ses dalgasının işaret değiştirme oranının ortalaması.
+mfcc_1_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 1. MFCC sütununun zaman boyunca ortalaması.
+mfcc_2_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 2. MFCC sütununun zaman boyunca ortalaması.
+mfcc_3_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 3. MFCC sütununun zaman boyunca ortalaması.
+mfcc_4_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 4. MFCC sütununun zaman boyunca ortalaması.
+mfcc_5_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 5. MFCC sütununun zaman boyunca ortalaması.
+mfcc_6_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 6. MFCC sütununun zaman boyunca ortalaması.
+mfcc_7_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 7. MFCC sütununun zaman boyunca ortalaması.
+mfcc_8_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 8. MFCC sütununun zaman boyunca ortalaması.
+mfcc_9_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 9. MFCC sütununun zaman boyunca ortalaması.
+mfcc_10_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 10. MFCC sütununun zaman boyunca ortalaması.
+mfcc_11_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 11. MFCC sütununun zaman boyunca ortalaması.
+mfcc_12_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 12. MFCC sütununun zaman boyunca ortalaması.
+mfcc_13_ortalama,Ondalıklı sayı,Model girdisi,Sesin tınısını özetleyen 13. MFCC sütununun zaman boyunca ortalaması.
